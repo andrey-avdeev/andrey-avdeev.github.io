@@ -13,6 +13,7 @@
 	});
 			window.onload = function() {
 				document.body.className = '';
+				document.getElementById("main").style.display='';
 			}
 			window.ontouchmove = function() {
 				return false;
