@@ -32,6 +32,7 @@
     <Content Include="css\style-wide.css" />
     <Content Include="css\style.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="games\regravy\index.html" />
     <Content Include="games\snake\app.min.js" />
     <Content Include="games\snake\index.html" />
     <Content Include="index.html" />
