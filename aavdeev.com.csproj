@@ -35,6 +35,17 @@
     <Content Include="games\regravy\index.html" />
     <Content Include="games\snake\app.min.js" />
     <Content Include="games\snake\index.html" />
+    <Content Include="games\spaceship\assets\audio\8bit-orchestra.mp3" />
+    <Content Include="games\spaceship\assets\images\bullet.png" />
+    <Content Include="games\spaceship\assets\images\enemyParticle.png" />
+    <Content Include="games\spaceship\assets\images\greenEnemy.png" />
+    <Content Include="games\spaceship\assets\images\player.png" />
+    <Content Include="games\spaceship\assets\images\redEnemy.png" />
+    <Content Include="games\spaceship\assets\images\space.png" />
+    <Content Include="games\spaceship\assets\images\yellowEnemy.png" />
+    <Content Include="games\spaceship\index.html" />
+    <Content Include="games\spaceship\public\js\bundle.js" />
+    <Content Include="games\spaceship\public\js\bundle.min.js" />
     <Content Include="index.html" />
     <Content Include="js\init.js" />
     <Content Include="js\skel.min.js" />
@@ -47,6 +58,10 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="README.md" />
+    <Content Include="games\spaceship\assets\audio\8bit-orchestra.ogg" />
+    <Content Include="games\spaceship\assets\levels\level1.json" />
+    <Content Include="games\spaceship\assets\levels\level2.json" />
+    <Content Include="games\spaceship\assets\levels\level3.json" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
