@@ -44,8 +44,7 @@
     <Content Include="games\spaceship\assets\images\space.png" />
     <Content Include="games\spaceship\assets\images\yellowEnemy.png" />
     <Content Include="games\spaceship\index.html" />
-    <Content Include="games\spaceship\public\js\bundle.js" />
-    <Content Include="games\spaceship\public\js\bundle.min.js" />
+    <Content Include="games\spaceship\bundle.js" />
     <Content Include="index.html" />
     <Content Include="js\init.js" />
     <Content Include="js\skel.min.js" />
