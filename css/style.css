@@ -89,6 +89,24 @@
   background-size: cover; /* Optional: adjust as needed */
   visibility: hidden; /* This hides the element visually, but it still takes up space */
 }
+.invisible-image3 {
+  background-image: url('images/AppGallery.svg');
+  background-repeat: no-repeat; /* Optional: adjust as needed */
+  background-size: cover; /* Optional: adjust as needed */
+  visibility: hidden; /* This hides the element visually, but it still takes up space */
+}
+.invisible-image4 {
+  background-image: url('images/Rustore.svg');
+  background-repeat: no-repeat; /* Optional: adjust as needed */
+  background-size: cover; /* Optional: adjust as needed */
+  visibility: hidden; /* This hides the element visually, but it still takes up space */
+}
+.invisible-image5 {
+  background-image: url('images/iOS.svg');
+  background-repeat: no-repeat; /* Optional: adjust as needed */
+  background-size: cover; /* Optional: adjust as needed */
+  visibility: hidden; /* This hides the element visually, but it still takes up space */
+}
 /* Wrapper */
 	@-moz-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
 	@-webkit-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
