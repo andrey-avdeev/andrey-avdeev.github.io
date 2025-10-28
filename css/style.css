@@ -77,6 +77,18 @@
   background-size: cover; /* Optional: adjust as needed */
   visibility: hidden; /* This hides the element visually, but it still takes up space */
 }
+.invisible-image1 {
+  background-image: url('images/logo_color.svg');
+  background-repeat: no-repeat; /* Optional: adjust as needed */
+  background-size: cover; /* Optional: adjust as needed */
+  visibility: hidden; /* This hides the element visually, but it still takes up space */
+}
+.invisible-image2 {
+  background-image: url('images/logo_monochrome.svg');
+  background-repeat: no-repeat; /* Optional: adjust as needed */
+  background-size: cover; /* Optional: adjust as needed */
+  visibility: hidden; /* This hides the element visually, but it still takes up space */
+}
 /* Wrapper */
 	@-moz-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
 	@-webkit-keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
