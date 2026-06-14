@@ -12,6 +12,7 @@ const siteData = {
     bio: {
         short: "I enjoy making complex AI based systems and dub techno.",
         timeline: [
+            { year: "2025", text: "Skolkovo corporate programm alumni" },
             { year: "2025", text: "Head of ML, Aeroflot" },
             { year: "2023", text: "Head of Billing, VK Cloud" },
             { year: "2021", text: "TeamLead, Checklens" },
