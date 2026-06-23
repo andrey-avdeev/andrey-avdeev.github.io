@@ -12,8 +12,9 @@ const siteData = {
     bio: {
         short: "I enjoy making complex AI based systems and dub techno.",
         timeline: [
+            { year: "2026", text: "Head of AI, AFLT Systems" },
             { year: "2025", text: "Skolkovo corporate programm alumni" },
-            { year: "2025", text: "Head of AI, Aeroflot" },
+            { year: "2025", text: "Head of ML, Aeroflot" },
             { year: "2023", text: "Head of Billing, VK Cloud" },
             { year: "2021", text: "TeamLead, Checklens" },
             { year: "2019", text: "ML Engineer, X5 Retail Group" },
