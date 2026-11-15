@@ -25,6 +25,16 @@ const siteData = {
     },
     music: [
         {
+            bandcampEmbed: `<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1062407287/size=large/bgcol=333333/linkcol=e99708/minimal=true/transparent=true/" seamless><a href="https://ubertrend.bandcamp.com/album/tales-of-trains">Tales of Trains by ANDREW VEED</a></iframe>`,
+            links: [
+                { url: "https://music.apple.com/us/album/tails-of-trains/1888262397", icon: "fab fa-apple", title: "Apple Music" },
+                { url: "https://open.spotify.com/album/2U7yXfbV298Bmg2RsSNNvN", icon: "fab fa-spotify", title: "Spotify" },
+                { url: "https://www.beatport.com/release/tails-of-trains/6717267", icon: "fab fa-compact-disc", title: "Beatport" },
+                { url: "https://www.youtube.com/watch?v=3A0HbzU1sW4&list=OLAK5uy_kyPqxYVqwaA8Rqa4DuFmhi0bsyldqDeu8", icon: "fab fa-youtube", title: "YouTube" },
+                { url: "https://music.yandex.com/album/41350146", icon: "fas fa-music", title: "Yandex Music" }
+            ]
+        },
+        {
             bandcampEmbed: `<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3033949546/size=large/bgcol=333333/linkcol=ffffff/minimal=true/track=2542345076/transparent=true/" seamless><a href="https://obsqurionrecords.bandcamp.com/album/va-experimental">VA experiMental by Andrew Veed</a></iframe>`,
             links: [
                 { url: "https://music.apple.com/us/song/another-flight/1847894301", icon: "fab fa-apple", title: "Apple Music" },
@@ -174,6 +184,14 @@ const siteData = {
         }
     ],
     events: [
+        {
+            date: "2026-11-14",
+            title: "Ubertrend Records Label Showcase, 16ton",
+            location: "Moscow, Russia",
+            description: "Ubertrend's First Vinyl celebration",
+            mediaType: "photo",
+            mediaSrc: "/photos/2026-11-14_16ton.jpg"
+        },
         {
             date: "2025-08-29",
             title: "Konklav, DEX",
